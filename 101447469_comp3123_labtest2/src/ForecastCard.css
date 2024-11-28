@@ -1,0 +1,34 @@
+.forecast-item {
+    flex: 1;
+    text-align: center;
+    margin: 0 10px;
+  }
+  
+  .forecast-item h6 {
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 5px 0;
+  }
+  
+  .forecast-item p {
+    font-size: 0.8rem;
+    margin-top: 5px;
+  }
+
+  .forecast-card {
+    display: flex;
+    justify-content: space-around; 
+    padding: 10px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  .forecast-item {
+    text-align: center;
+    flex: 1;
+    margin: 0 5px;
+  }
+  
+  .forecast-item img {
+    width: 40px;
+    height: 40px;
+  }
